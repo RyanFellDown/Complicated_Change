@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/HighSchool.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Transition Corridor.unity
+    guid: d1d0751bb3a7de547b8188d6eae02a63
+  - enabled: 1
+    path: Assets/Scenes/College.unity
+    guid: 49880048bdbf3904b90c9b24882137f0
+  - enabled: 1
+    path: Assets/Scenes/End Game.unity
+    guid: 762be3c2bfef75f4a99a16d3f2f5c3db
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: a0e74827b6c12df43a2ab5fe8c7d2c0f, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 082a9a45535cac943a2c5880f08c6f29, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 5c5a3cbf2ceb61d43bdb6afdeb071707, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 9bc794b20b5284242aedf2984617c064, type: 2}
